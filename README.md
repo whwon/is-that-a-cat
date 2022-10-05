@@ -1,3 +1,5 @@
+A very simple app that takes the user input and identifies if it is a cat or not.
+
 To run the code:
 
 - The server side:
